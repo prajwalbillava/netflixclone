@@ -17,12 +17,12 @@ function Nav() {
     <div className={`nav ${show && "nav_black"}`}>
       <img
         className="nav_logo"
-        src="https://upload.wikimedia.org/wikipedia/commons/0/0f/"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKjG1TLr8l9pfA0XCRJbM6el4XrvuNqjDSg&usqp=CAU"
         alt="Netflix-logo"
       ></img>
       <img
         className="nav_avatar"
-        src="https://pbs.twing.com/profile_images/12401199904115"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU"
         alt="Netflix-avathar"
       ></img>
     </div>
